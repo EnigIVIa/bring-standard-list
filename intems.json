@@ -1,0 +1,8 @@
+{
+  "title": "Standard List",
+  "ingredients": [
+    { "name": "Lachsschinken", "quantity": "1"},
+    { "name": "Frischkäse", "quantity": "1" },
+    { "name": "Butter", "quantity": "1" }
+  ]
+}
