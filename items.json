@@ -1,7 +1,9 @@
 {
-  "ingredients": [
-    "Butter",
-    "Zucker",
-    "Eier"
-  ]
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+   "name": "Standard List",
+   "recipeIngredient": [
+     "1 Lachsschinken",
+     "1 Frischkäse",
+    "1 Butter"    ]
 }
