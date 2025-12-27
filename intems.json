@@ -1,8 +1,10 @@
 {
-  "title": "Standard List",
-  "ingredients": [
-    { "name": "Lachsschinken"},
-    { "name": "Frischkäse"},
-    { "name": "Butter"}
-  ]
+  "recipe": {
+    "title": "Standard List",
+    "ingredients": [
+      { "name": "Lachsschinken" },
+      { "name": "Frischkäse" },
+      { "name": "Butter" }
+    ]
+  }
 }
