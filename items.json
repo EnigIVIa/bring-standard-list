@@ -1,10 +1,11 @@
 {
   "@context": "https://schema.org/",
   "@type": "Recipe",
+  "title": "Standard List",
   "name": "Standard List",
-  "recipeIngredient": [
-    "1 Lachsschinken",
-    "1 Frischkäse",
-    "1 Butter"
+  "ingredients": [
+    "Lachsschinken",
+    "Frischkäse",
+    "Butter"
   ]
 }
